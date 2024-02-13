@@ -1,0 +1,26 @@
+.title{
+    color:rgb(225, 168, 179);
+    background-color:rgb(230, 84, 84);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    margin-top:30px;
+    border: solid;
+    border-radius: 150px 0 150px 0;
+
+
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    align-items: center;
+
+}
+
+#pepe{ 
+    color:brown
+    
+}
